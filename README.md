@@ -1,0 +1,1 @@
+# haier-share-test-page
